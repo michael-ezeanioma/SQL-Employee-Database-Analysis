@@ -4,12 +4,12 @@ This project involves creating a comprehensive database to analyze employee reco
 
 # Project Components
 
-__1. Data Modeling__
+__1. Data Modeling__:
 Designed an Entity Relationship Diagram (ERD) to outline relationships between tables.
 Identified entities, attributes, and relationships using tools like QuickDBD.
 Developed a schema for six datasets to accurately represent the data.
 
-__2. Data Engineering__
+__2. Data Engineering__:
 Created SQL table schemas to define:
 Data types
 Primary and foreign keys
@@ -17,22 +17,25 @@ Necessary constraints (e.g., NOT NULL, value length restrictions)
 Imported data from CSV files into a relational SQL database.
 Ensured proper table creation order to maintain referential integrity.
 
-__3. Data Analysis__
+__3. Data Analysis__:
 Executed SQL queries to answer critical business questions, including:
-
-Employee salary details.
-Hiring trends for specific years.
-Department manager information.
-Employees by department and name frequency analysis.
-Advanced filtering for specific criteria (e.g., employees with certain names or departments).
+- Employee salary details.
+- 
+- Hiring trends for specific years.
+- 
+- Department manager information.
+- 
+--Employees by department and name frequency analysis.
+  
+- Advanced filtering for specific criteria (e.g., employees with certain names or departments).
 
 # Files
 
-SQL_MODULE_9_SOL.sql: Contains the SQL queries used for data analysis.
+__SQL_MODULE_9_SOL.sql:__ Contains the SQL queries used for data analysis.
 
-EMPLOYEE ERD SCHEMA - Module 9.sql: The schema used to design and populate the database.
+__EMPLOYEE ERD SCHEMA - Module 9.sql:__ The schema used to design and populate the database.
 
-CSV Files: Data files containing employee information (not included here but required for execution).
+__CSV Files:__ Data files containing employee information (not included here but required for execution).
 
 # Key Features
 
@@ -56,29 +59,29 @@ Executed the following queries:
 
 # Dependencies
 
-__1. Database Design__
+__1. Database Design:__
 Use an ERD to plan table structure and relationships.
 Accurately define schemas with appropriate constraints.
 
-__2. SQL Queries__
+__2. SQL Queries:__
 Implement queries to extract meaningful insights.
 Ensure data accuracy and efficient performance.
 
-__3. CSV Integration__
+__3. CSV Integration:__
 Import CSV files into corresponding tables.
 Maintain data integrity and resolve any import issues.
 
-__4. Tools__
+__4. Tools:__
 SQL-based relational database for query execution and storage.
 Visualization tools for ERD creation.
 
 # Technologies Used
 
-PostgreSQL/MySQL: For database creation and data analysis.
+__PostgreSQL:__ For database creation and data analysis.
 
-Entity Relationship Diagram Tools: For schema planning.
+__Entity Relationship Diagram Tools:__ For schema planning.
 
-CSV Data: Used as the primary data source.
+__CSV Data:__ Used as the primary data source.
 
 # How to Use
 
