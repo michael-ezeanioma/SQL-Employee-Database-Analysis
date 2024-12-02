@@ -20,12 +20,12 @@ Ensured proper table creation order to maintain referential integrity.
 __3. Data Analysis__:
 Executed SQL queries to answer critical business questions, including:
 - Employee salary details.
-- 
+  
 - Hiring trends for specific years.
-- 
+  
 - Department manager information.
-- 
---Employees by department and name frequency analysis.
+  
+- Employees by department and name frequency analysis.
   
 - Advanced filtering for specific criteria (e.g., employees with certain names or departments).
 
