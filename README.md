@@ -59,19 +59,19 @@ Executed the following queries:
 
 # Dependencies
 
-__1. Database Design:__
+__Database Design:__
 Use an ERD to plan table structure and relationships.
 Accurately define schemas with appropriate constraints.
 
-__2. SQL Queries:__
+__SQL Queries:__
 Implement queries to extract meaningful insights.
 Ensure data accuracy and efficient performance.
 
-__3. CSV Integration:__
+__CSV Integration:__
 Import CSV files into corresponding tables.
 Maintain data integrity and resolve any import issues.
 
-__4. Tools:__
+__Tools:__
 SQL-based relational database for query execution and storage.
 Visualization tools for ERD creation.
 
